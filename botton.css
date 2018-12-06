@@ -41,7 +41,7 @@
   font-size: 13px;
   pointer-events: none;
   position: absolute;
-  right: 110%;
+  left: 110%;
   min-width: 150px;
 }
 .sub_fab_btns_wrapper.show{
@@ -70,7 +70,7 @@ button.kc_fab_main_btn{
   height:60px;
   border-radius:100%;
   background:#F44336;
-  right:16px;
+  left:16px;
   bottom:16px;
   position:absolute;
   margin-right:0;
